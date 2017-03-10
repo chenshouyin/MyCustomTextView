@@ -336,6 +336,9 @@ UNSPECIFIED：表示子布局想要多大就多大，很少使用
 >Github地址:
 https://github.com/chenshouyin/MyCustomTextView
 >
-博客地址:
+
+>博客地址:
 http://blog.csdn.net/e_Inch_Photo/article/details/61195762
->简书地址:http://www.jianshu.com/p/2eecf72c54d6
+
+>简书地址:
+http://www.jianshu.com/p/2eecf72c54d6
